@@ -1,5 +1,5 @@
 # FUSE (Filesystem in Userspace)
-A small userspace filesytem created for SOFTENG370: Operating Systems. The filesystem created contains 16 blocks of 64 bytes each and supports commands such as ```touch, echo, cat, ls, rm, mkdir, rmdir```.
+A small userspace filesystem created for SOFTENG370: Operating Systems. The filesystem created contains 16 blocks of 64 bytes each and supports commands such as ```touch, echo, cat, ls, rm, mkdir, rmdir```.
 
 ## How to use:
 1. Create a directory named "mount" (```mkdir mount```)
